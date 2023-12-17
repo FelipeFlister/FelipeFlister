@@ -1,7 +1,10 @@
+- 👋 Oi, eu sou @FelipeFlister
 - 👋 Hi, I’m @FelipeFlister
-- 👀 I’m interested in learning many types of code
+- 👀 Eu estou interessado em aprender vários tipos de linguagens de programação como:javascript,php,c# e c++
+- 👀 I am interested in learning various types of programming languages such as: javascript, php, c# and c++
+- 🌱 Atualmente estou aprendendo javascript
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on nobody
+- 📫 Como entrar em contato comigo: felipeflister@gmail.com
 - 📫 How to reach me: felipeflister@gmail.com
 
 <!---
