@@ -4,7 +4,9 @@ Olá! Obrigado por acessar minha descrição, meu nome é FelipeFlister, sou um 
 Eu não uso muito as redes sociais, então se comunique comigo por estes meios:
 
 [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipeflister@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)] Comunique-se comigo pela conta: fireblue_71832
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+Comunique-se comigo pela conta: fireblue_71832
 
 
 ## 🧐 Habilidades
