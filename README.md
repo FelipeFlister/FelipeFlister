@@ -1,13 +1,13 @@
 # FelipeFlister 
-Olá! Obrigado por acessar minha descrição, meu nome é FelipeFlister, sou um programador iniciante e estou aprendendo o básico sobre git e js na plataforma DIO, mas pretendo melhorar meus conhecimentos e aprender html, css, php e c#.
+Olá! Obrigado por acessar minha descrição, meu nome é FelipeFlister, sou um programador iniciante e estou aprendendo sobre os fundamentos do BackEnd e como cria-lo, mas pretendo melhorar meus conhecimentos e aprender mais.
 ## 👋 Conecte-se Comigo
-Eu não uso muito as redes sociais, então se comunique comigo por esse meio:
+Eu não uso muito as redes sociais, então se comunique comigo por estes meios:
 
 [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipeflister@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
 ## 🧐 Habilidades
-Eu estou aprendendo ainda, mas logo vou colocar mais coisas.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
