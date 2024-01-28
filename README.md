@@ -24,8 +24,6 @@ Eu não uso muito as redes sociais, então se comunique comigo por estes meios:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeFlister&bg_color=000&border_color=FF8C00&title_color=DC143C&text_color=30A3DC) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeFlister&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC) 
-## 🤝 Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeFlister&repo=dio-lab-open-source&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=30A3DC&title_color=DC143C&text_color=30A3DC)](https://github.com/FelipeFlister/dio-lab-open-source)
 
 ## 😉 Agradecimentos 
 Muito obrigado por ter acessado a minha descrição inicial como programador e ter lido, espero ter ajudado, e até mais!
