@@ -20,6 +20,8 @@ Eu não uso muito as redes sociais, então se comunique comigo por estes meios:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 ## 😎 GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeFlister&bg_color=000&border_color=FF8C00&title_color=DC143C&text_color=30A3DC) 
 
