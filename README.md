@@ -1,5 +1,5 @@
 # FelipeFlister 
-Olá! Obrigado por acessar minha descrição, meu nome é FelipeFlister, sou um programador iniciante e estou aprendendo sobre os fundamentos do BackEnd e como cria-lo, mas pretendo melhorar meus conhecimentos e aprender mais.
+Olá! Obrigado por acessar minha descrição, meu nome é FelipeFlister, sou um programador iniciante e estou aprendendo sobre game designer com unity e godot, mas pretendo melhorar meus conhecimentos e aprender mais.
 ## 👋 Conecte-se Comigo
 Eu não uso muito as redes sociais, então se comunique comigo por estes meios:
 
