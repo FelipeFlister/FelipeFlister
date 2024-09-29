@@ -30,4 +30,8 @@ Eu não uso muito as redes sociais, então se comunique comigo por estes meios:
 ## 😉 Agradecimentos 
 Muito obrigado por ter acessado a minha descrição inicial como programador e ter lido, espero ter ajudado, e até mais!
 
-![snake gif](https://github.com/FelipeFlister/FelipeFlister/blob/output/github-contribution-grid-snake.gif)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
