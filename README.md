@@ -29,3 +29,5 @@ Eu não uso muito as redes sociais, então se comunique comigo por estes meios:
 
 ## 😉 Agradecimentos 
 Muito obrigado por ter acessado a minha descrição inicial como programador e ter lido, espero ter ajudado, e até mais!
+
+![snake gif](https://github.com/FelipeFlister/FelipeFlister/blob/output/github-contribution-grid-snake.gif)
