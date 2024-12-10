@@ -1,11 +1,6 @@
 # 🎮 Felipe Flister
 
-Olá! Obrigado por acessar meu perfil. Meu nome é Felipe Flister e sou estudante na área de TI, trabalhando com .NET, HTML, CSS, JS e desenvolvimento de jogos na Unity. Atualmente estou trabalhando em um jogo com a minha equipe/empresa **Castle Tales Studio**, atuando como:
-- Líder do projeto e da equipe
-- Designer UI/UX
-- Programador .NET
-- Programador Web
-- Criador de Shaders e VFX
+Olá! Obrigado por acessar meu perfil. Meu nome é Felipe Flister e sou estudante na área de TI, trabalhando com .NET, HTML, CSS, JS e SQL
 
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por programar e criar soluções inovadoras.
 
@@ -25,8 +20,8 @@ Durante minha jornada, desenvolvi habilidades em várias tecnologias:
 
 ## 😎 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeFlister&bg_color=000&border_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Top Linguagens de Programação de FelipeFlister" style="max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeFlister&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Estatísticas do GitHub de FelipeFlister" style="max-width: 100%;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=&bg_color=000&border_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Top Linguagens de Programação de FelipeFlister" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Estatísticas do GitHub de FelipeFlister" style="max-width: 100%;">
 </p>
 
 ## 😉 Agradecimentos
