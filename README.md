@@ -13,10 +13,11 @@ Eu não uso muito as redes sociais, mas você pode se comunicar comigo através 
 Durante minha jornada, desenvolvi habilidades em várias tecnologias:
 <div style="display: flex; column-gap: 1rem; margin-top: 1rem;">
 <img style="height: 3rem; width: 3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img style="height: 3rem; width: 3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img style="height: 3rem; width: 3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img style="height: 3rem; width: 3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img style="height: 3rem; width: 3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> </div>
+<img style="height: 3rem; width: 3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img style="height: 3rem; width: 3rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+</div>
 
 ## 😎 GitHub Stats
 <p align="center">
