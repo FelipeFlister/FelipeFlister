@@ -1,6 +1,6 @@
 # 🎮 Felipe Flister
 
-Olá! Obrigado por acessar meu perfil. Meu nome é Felipe Flister e sou estudante na área de TI, trabalhando com .NET, HTML, CSS, JS e SQL
+Olá! Obrigado por acessar meu perfil. Meu nome é Felipe Flister e sou estudante na área de TI, trabalhando com .NET, C#, HTML, CSS, JS e SQL
 
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por programar e criar soluções inovadoras.
 
