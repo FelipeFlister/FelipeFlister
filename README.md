@@ -21,7 +21,7 @@ Durante minha jornada, desenvolvi habilidades em várias tecnologias:
 
 ## 😎 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipeflister&bg_color=000&border_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Top Linguagens de Programação de FelipeFlister" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeflister&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Top Linguagens de Programação de FelipeFlister" style="max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=felipeflister&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Estatísticas do GitHub de FelipeFlister" style="max-width: 100%;">
 </p>
 
