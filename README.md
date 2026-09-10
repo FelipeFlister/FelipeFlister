@@ -20,10 +20,16 @@ Durante minha jornada, desenvolvi habilidades em várias tecnologias:
 </div>
 
 ## 😎 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeflister&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Top Linguagens de Programação de FelipeFlister" style="max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeflister&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Estatísticas do GitHub de FelipeFlister" style="max-width: 100%;">
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td valign="middle" style="border: none; padding: 10px;">
+     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felipeflister&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Top Linguagens de Programação de FelipeFlister" style="max-width: 100%; vertical-align: middle;">
+    </td>
+    <td valign="middle" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=felipeflister&theme=transparent&bg_color=000&border_color=FF8C00&show_icons=true&icon_color=FF8C00&title_color=DC143C&text_color=30A3DC" alt="Estatísticas do GitHub de FelipeFlister" style="max-width: 100%; vertical-align: middle;">
+    </td>
+  </tr>
+</table>
 
 ## 😉 Agradecimentos
 Muito obrigado por visitar meu perfil e ler minha descrição como programador. Espero ter ajudado, e até mais!
